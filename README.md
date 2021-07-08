@@ -8,6 +8,11 @@ Seeking to improve personally and professionally!
 
 If in doubt, send a message on my LinkedIn!
 
+💼 [LinkedIn](https://www.linkedin.com/in/rodrigdeveloper/) <br>
+🐦 [Twitter](https://twitter.com/rodrygodev) <br>
+📸 [Instagram](https://www.instagram.com/therodrygo/) <br>
+📧 [Gmail](mailto:rodrigdeveloper@gmail.com) <br>
+
 [![Twitter Badge](https://img.shields.io/badge/-@rodrygodev-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/rodrygodev)](https://twitter.com/rodrygodev) 
 [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20De%20Oliveira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigdeveloper/)](https://www.linkedin.com/in/rodrigdeveloper/) 
 [![Gmail Badge](https://img.shields.io/badge/-rodrigdeveloper@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigdeveloper@gmail.com)](mailto:rodrigdeveloper@gmail.com)
