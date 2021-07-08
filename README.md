@@ -2,7 +2,7 @@
 
 Seeking to improve personally and professionally!
 
-🇧🇷 RJ - Brazil  
+🇧🇷 Born and Living in Rio de Janeiro, Brazil  
 📱 Android Developer   
 🖱 Always studying to improve
 
